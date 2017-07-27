@@ -3,4 +3,12 @@
   <groupId>com.everis.alicante.becajava07.course</groupId>
   <artifactId>MasterMind</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  <dependency>
+    <groupId>mingorance.enrique</groupId>
+    <artifactId>commandlinemenu</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
 </project>
